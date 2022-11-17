@@ -8,13 +8,17 @@ body {
 
 header {
     background-color: #333333;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
     color: #eee;
     font-size: 28px;
-    margin-left: 12px;
-    padding: 15px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    padding: 20px;
+    text-align: center;
 }
 
 h2 {
@@ -45,7 +49,12 @@ p {
 
 #contact-info {
     width: 30%;
-    line-height: 1.5em;
+    line-height: 1.5rem;
+}
+
+#contact-info h2 {
+    line-height: 1.5rem;
+    margin-left: 20px
 }
 
 a {
