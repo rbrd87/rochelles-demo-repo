@@ -1,4 +1,4 @@
-# rochelles-demo-repo
+# A Small Student Bio
 
 ## Description
 
